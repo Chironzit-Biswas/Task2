@@ -9,17 +9,17 @@ export const Statistics = () => {
                     <p className={'text-[18px] font-normal text-[#475569] mt-[24px] md:w-1/2 text-center mb-[64px]'}>Liquam id diam maecenas ultricies mi eget mauris pharetra et. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Fermentum iaculis eu non diam.</p>
                 </div>
                 <div className={'md:flex justify-center items-center text-[#4F46E5] md:mx-auto gap-[16px] '}>
-                    <div className={'text-center border-r-2'}>
-                        <h1 className={'text-[60px]  font-bold'}>420%</h1>
+                    <div className={'text-center border-[#CBD5E1] border-r-1'}>
+                        <h1 className={'text-[60px]  font-bold mr-[100px]'}>420%</h1>
                         <p>Data Efficiency</p>
 
                     </div>
-                    <div className={'text-center border-r-2'}>
-                        <h1 className={'text-[60px]  font-bold'}>708+</h1>
+                    <div className={'text-center border-[#CBD5E1] border-r-1'}>
+                        <h1 className={'text-[60px]  font-bold mr-[100px]'}>708+</h1>
                         <p>Conversion Rate</p>
                     </div>
-                    <div className={'text-center border-r-2'}>
-                        <h1 className={'text-[60px]  font-bold'}>1.82M</h1>
+                    <div className={'text-center border-[#CBD5E1] border-r-1 '}>
+                        <h1 className={'text-[60px]  font-bold mr-[100px]'}>1.82M</h1>
                         <p>AI LLM Scale</p>
                     </div>
                 </div>
