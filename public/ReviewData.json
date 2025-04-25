@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "rating": "src/images/Rating1.png",
+        "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "img": "src/images/Avatar1.png",
+        "title": "X_AE_A-13",
+        "profile_des": "Product Designer, slothUI",
+
+    },
+    {
+        "id": 2,
+        "rating": "src/images/Rating1.png",
+        "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "img": "src/images/Avatar1.png",
+        "title": "X_AE_A-13",
+        "profile_des": "Product Designer, slothUI"
+
+    },
+    {
+        "id": 3,
+        "rating": "src/images/Rating1.png",
+        "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "img": "src/images/Avatar1.png",
+        "title": "X_AE_A-13",
+        "profile_des": "Product Designer, slothUI"
+
+    },
+    {
+        "id": 4,
+        "rating": "src/images/Rating1.png",
+        "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "img": "src/images/Avatar1.png",
+        "title": "X_AE_A-13",
+        "profile_des": "Product Designer, slothUI"
+
+    },
+    {
+        "id": 5,
+        "rating": "src/images/Rating1.png",
+        "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "img": "src/images/Avatar1.png",
+        "title": "X_AE_A-13",
+        "profile_des": "Product Designer, slothUI"
+
+    },
+    {
+        "id": 6,
+        "rating": "src/images/Rating1.png",
+        "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "img": "src/images/Avatar1.png",
+        "title": "X_AE_A-13",
+        "profile_des": "Product Designer, slothUI"
+
+    },
+    {
+        "id": 7,
+        "rating": "src/images/Rating1.png",
+        "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "img": "src/images/Avatar1.png",
+        "title": "X_AE_A-13",
+        "profile_des": "Product Designer, slothUI"
+
+    },
+    {
+        "id": 8,
+        "rating": "src/images/Rating1.png",
+        "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "img": "src/images/Avatar1.png",
+        "title": "X_AE_A-13",
+        "profile_des": "Product Designer, slothUI"
+
+    },
+    {
+        "id": 9,
+        "rating": "src/images/Rating1.png",
+        "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "img": "src/images/Avatar1.png",
+        "title": "X_AE_A-13",
+        "profile_des": "Product Designer, slothUI"
+
+    }
+]
