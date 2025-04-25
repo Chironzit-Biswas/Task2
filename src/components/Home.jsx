@@ -8,6 +8,8 @@ import {Testimonials} from "./Testimonials.jsx";
 
 
 
+
+
 export const Home = () => {
     return (
         <div>
@@ -17,7 +19,6 @@ export const Home = () => {
             <Statistics />
             <Feature/>
             <Testimonials />
-
         </div>
     )
 }
