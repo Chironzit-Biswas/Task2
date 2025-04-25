@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "rating": "src/images/Rating1.png",
+        "rating": "src/images/Rating2.png",
         "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
         "img": "src/images/Avatar1.png",
         "title": "X_AE_A-13",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "rating": "src/images/Rating1.png",
+        "rating": "src/images/Rating3.png",
         "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
         "img": "src/images/Avatar1.png",
         "title": "X_AE_A-13",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "rating": "src/images/Rating1.png",
+        "rating": "src/images/Rating4.png",
         "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
         "img": "src/images/Avatar1.png",
         "title": "X_AE_A-13",
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "rating": "src/images/Rating1.png",
+        "rating": "src/images/Rating5.png",
         "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
         "img": "src/images/Avatar1.png",
         "title": "X_AE_A-13",
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "rating": "src/images/Rating1.png",
+        "rating": "src/images/Rating6.png",
         "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
         "img": "src/images/Avatar1.png",
         "title": "X_AE_A-13",
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "rating": "src/images/Rating1.png",
+        "rating": "src/images/Rating7.png",
         "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
         "img": "src/images/Avatar1.png",
         "title": "X_AE_A-13",
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "rating": "src/images/Rating1.png",
+        "rating": "src/images/Rating8.png",
         "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
         "img": "src/images/Avatar1.png",
         "title": "X_AE_A-13",
@@ -73,7 +73,7 @@
     },
     {
         "id": 9,
-        "rating": "src/images/Rating1.png",
+        "rating": "src/images/Rating9.png",
         "des": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
         "img": "src/images/Avatar1.png",
         "title": "X_AE_A-13",
