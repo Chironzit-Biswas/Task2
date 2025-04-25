@@ -19,8 +19,7 @@ export const Testimonials = () => {
                     <p className={'text-[18px] font-normal text-center text-[#475569] mt-[24px]  mb-[64px]'}>You can visit our office anytime but please don’t stalk us or don’t be creepy.</p>
                 </div>
 
-                <div>
-                    <h1>{showReviews.length}</h1>
+                <div className={'md:grid md:grid-cols-3 flex'}>
                     {
                         showReviews.map(card => <TestimonialCard card={card}></TestimonialCard>)
                     }
