@@ -1,7 +1,7 @@
 import iconContainer from '../images/Icon Container.png'
 export const Statistics = () => {
     return (
-        <div className={'max-w-[1216px] mx-auto'}>
+        <div className={'max-w-[1216px] mx-auto py-[64px]'}>
             <div>
                 <div className={'flex flex-col justify-center items-center'}>
                         <img className={'h-[56] w-[56]'} src={iconContainer} alt=""/>
