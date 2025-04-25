@@ -11,15 +11,15 @@ export const Statistics = () => {
                 <div className={'md:flex max-w-[800px] justify-center text-center items-center text-[#4F46E5] md:mx-auto gap-[16px] '}>
                     <div className={'text-center border-[#CBD5E1] md:border-r-1 md:px-[60px]'}>
                         <h1 className={'text-[60px]  font-bold '}>420%</h1>
-                        <p>Data Efficiency</p>
+                        <p className={'text-[#475569] text-[18px] font-semibold'}>Data Efficiency</p>
                     </div>
                     <div className={'text-center border-[#CBD5E1] md:border-r-1 md:px-[60px]'}>
                         <h1 className={'text-[60px]  font-bold  '}>708+</h1>
-                        <p className={'text-center'}>Conversion Rate</p>
+                        <p className={'text-[#475569] text-[18px] font-semibold'}>Conversion Rate</p>
                     </div>
                     <div className={'text-center border-[#CBD5E1] md:border-r-1 md:px-[60px]'}>
                         <h1 className={'text-[60px]  font-bold'}>1.82M</h1>
-                        <p>AI LLM Scale</p>
+                        <p className={'text-[#475569] text-[18px] font-semibold'}>AI LLM Scale</p>
                     </div>
                 </div>
             </div>
